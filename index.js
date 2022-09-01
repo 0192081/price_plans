@@ -50,5 +50,5 @@ console.log("done!");
 
 const PORT = 6001;
 app.listen(PORT , function(){
-    console.log('Price plan API started on port ${PORT}')
+    console.log(`Price plan API started on port ${PORT}`)
 });
